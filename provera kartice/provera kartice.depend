@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1643925738 source:c:\users\milica\documents\programi\programiranje ii godina\provera kartice\main.cpp
-	<iostream>
-	<bits/stdc++.h>
-	<string>
-	<regex>
-	<fstream>
-
